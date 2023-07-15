@@ -9,20 +9,20 @@ Save-Data:
     # Whether to per-world player's armor contents
     armor: true
     # Whether to per-world player's ender inventory
-    ender: true
+    ender: false
   # Whether to per-world player's health
-  health: true
+  health: false
   # Whether to per-world player's effects
-  effects: true
+  effects: false
   # Whether to per-world player's gamemode
-  gamemode: true
+  gamemode: false
   # Whether to per-world player's experience
-  experience: true
+  experience: false
   # Whether to per-world player's hunger bar and food attributes
   food:
-    hunger: true
-    saturation: true
-    exhaustion: true
+    hunger: false
+    saturation: false
+    exhaustion: false
 
 # Worlds in which player data should be bundled.
 #
